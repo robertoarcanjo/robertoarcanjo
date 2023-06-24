@@ -5,9 +5,7 @@
 - 🔭 I am currently in the third year of the electrical engineering course.
 
 - 🌱Here, i am developing projects in python related to optical communications and cryptography.
-
-- 🌱In addition to content such as electrical circuits and electromagnetic waves.
-
+  
 - ⚡My recent contributions: https://github.com/helderufcg/SONDA-Multi-Band
 
 - 📫How to reach me: jose.arcanjo@ee.ufcg.edu.br
