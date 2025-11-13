@@ -2,7 +2,7 @@
 
 - ⚡ Welcome to my github profile.
 
-- 🔭 I am currently in the third year of the electrical engineering course.
+- 🔭 I am currently in the last year of the electrical engineering course.
 
 - 🌱Here, i am developing projects in python related to electrical engineering.
 
